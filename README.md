@@ -1,2 +1,2 @@
 # LeetCode-Concepts
-This repo has algorithmic template for all the sub concepts of DSA questions
+This repo holds template code for all the sub concepts of DSA questions, refer to the sairam bandi's notion for more details.
